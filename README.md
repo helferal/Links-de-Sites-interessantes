@@ -6,3 +6,4 @@ https://color.adobe.com/pt/create/color-wheel (Site maravilho que auxilia na ide
 https://unsplash.com (Site que disponibiliza fotos gratis)
 https://code.org (Site excelente para ensinar programação por bloco)
 https://www.tinkercad.com ( Site simulador do arduino, para robótica )
+https://developer.mozilla.org/pt-BR/ (recurso para desenvolvedores, com diversas linguagens)
