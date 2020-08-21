@@ -9,3 +9,4 @@
 * https://developer.mozilla.org/pt-BR/ (MDT - Site que explica diversas linguagem de forma detalhada)
 * https://www.framer.com ( ensina como criar efeitos bacanas na linguagem JavaScript)
 * https://br.freepik.com ( Site disponibiliza imagens gratis )
+* https://www.openshot.org/pt/ (Editor de vídeo Livre )
