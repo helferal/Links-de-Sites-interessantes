@@ -19,4 +19,5 @@
 * https://color.adobe.com/pt/create/color-wheel
 * https://coolors.co
 * https://www.colourlovers.com
+* https://www.chiefofdesign.com.br/teoria-das-cores/ (Sites de estdo sobre designer de cores)
 
