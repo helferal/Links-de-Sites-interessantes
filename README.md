@@ -21,3 +21,5 @@
 * https://www.colourlovers.com
 * https://www.chiefofdesign.com.br/teoria-das-cores/ (Sites de estudo sobre designer de cores)
 
+### DESENVOLVIMENTO WEB
+* https://console.cloud.google.com (entrar na hospedagem do google)
