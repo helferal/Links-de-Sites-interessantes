@@ -23,3 +23,6 @@
 
 ### DESENVOLVIMENTO WEB
 * https://console.cloud.google.com (entrar na hospedagem do google)
+
+### EMPREENDEDORISMO
+* https://circuitostartup.com (diversos empreendedores voltado a startup)
