@@ -21,8 +21,9 @@
 * https://www.colourlovers.com
 * https://www.chiefofdesign.com.br/teoria-das-cores/ (Sites de estudo sobre designer de cores)
 
-### DESENVOLVIMENTO WEB
+### DESENVOLVIMENTO PROGRAMAÇÃO
 * https://console.cloud.google.com (entrar na hospedagem do google)
+* http://flowgorithm.org/download/index.htm (Fluxograma para programação
 
 ### EMPREENDEDORISMO
 * https://circuitostartup.com (diversos empreendedores voltado a startup)
