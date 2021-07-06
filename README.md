@@ -1,6 +1,5 @@
 ### LINKS DE SITES INTERESSANTES
 * https://www.w3schools.com/default.asp (Site que contribui com diversas tags e comandos para programação)
-* https://code.org (Site excelente para ensinar programação por bloco)
 * https://www.tinkercad.com ( Site simulador do arduino, para robótica )
 * https://developer.mozilla.org/pt-BR/ (MDT - Site que explica diversas linguagem de forma detalhada)
 * https://www.framer.com ( ensina como criar efeitos bacanas na linguagem JavaScript)
@@ -23,7 +22,9 @@
 
 ### DESENVOLVIMENTO PROGRAMAÇÃO
 * https://console.cloud.google.com (entrar na hospedagem do google)
-* http://flowgorithm.org/download/index.htm (Fluxograma para programação
+* http://flowgorithm.org/download/index.htm (Fluxograma para programação)
+* https://portugol-webstudio.cubos.io/ide (IDE pseudolinguagem para início da programação)
+* https://code.org (Site excelente para ensinar programação por bloco)
 
 ### EMPREENDEDORISMO
 * https://circuitostartup.com (diversos empreendedores voltado a startup)
