@@ -13,6 +13,9 @@
 * https://icomoon.io/app/#/select (Site disponibiliza deversos icones )
 * https://giphy.com (Site de Gifs)
 
+### IMAGENS VETORIZADAS
+* https://www.pngwing.com/pt (site disponibiliza imagnes em png grátis)
+
 ### PALETA DE CORES 
 (Site maravilho que auxilia na identificação e combinação das cores)
 * https://color.adobe.com/pt/create/color-wheel
